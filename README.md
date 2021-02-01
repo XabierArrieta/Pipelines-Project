@@ -13,14 +13,14 @@ Los principales mercados emisores de turismo internacional fueron Estados Unidos
 
 ## Objetivo:
 
-Este es un proyecto que lo he realizado durante el Bootcamp de Data Anatlytics en Ironhack Maddrid.
+Este es un proyecto que lo he realizado durante el Bootcamp de Data Anatlytics en [Ironhack](https://www.ironhack.com/es/data-analytics) Maddrid.
 
 El objetivo es;
 
-    -   Escoger una base de datos de [Kaggle](www.kaggle.com).
-    -   Limpiar la base de datos.
-    -   Enriquecerla, en mi caso,  a través de wev scraping.
-    -   Visualizar los datos obtenidos con gráficos.
+-   Escoger una base de datos de [Kaggle](www.kaggle.com).
+-   Limpiar la base de datos.
+-   Enriquecerla, en mi caso,  a través de wev scraping.
+-   Visualizar los datos obtenidos con gráficos.
 
 Las libreias usadas en este proyecto:  Os, Pandas, Sys, Requests, BeautifulSoup, Seaborn, matplotlib.pyplot.
 
@@ -31,19 +31,19 @@ He escogido una base de datos de [Airbnb de Madrid Dataset](https://www.kaggle.c
 
 Los pasos a seguir;
 
-    -   Analizar el dataset; ya está bastante limpio por lo que reviso las columnas, quito los valores nulos, duplicados y las columnas no necesarias para mi análisis. 
-    -   Web scraping; una vez que tengo el dataset limpio decido enriquecerlo con información relacionada con los monumentos de interés cercanos a los apartamentos. 
-    -   Visualización: ----------------
+-   Analizar el dataset; ya está bastante limpio por lo que reviso las columnas, quito los valores nulos, duplicados y las columnas no necesarias para mi análisis. 
+-   Web scraping; una vez que tengo el dataset limpio decido enriquecerlo con información relacionada con los monumentos de interés cercanos a los apartamentos. 
+-   Visualización: ----------------
 
 
 ## Conclusiones:
 
--- Los barrios donde más apartamentos se ofrecen son:
--- La mayoría de ellos están cerca de los principales puntos de interés de Madrid;
--- Los que mejor puntuación obtienen se encuentran en:
--- Los que menos puntuación obtienen se encuentran en:
--- Los apartamentos más caros se encuentran en:
--- Los apartamentos más baratos se encuentran en:
+- Los barrios donde más apartamentos se ofrecen son:
+- La mayoría de ellos están cerca de los principales puntos de interés de Madrid:
+- Los que mejor puntuación obtienen se encuentran en:
+- Los que menos puntuación obtienen se encuentran en:
+- Los apartamentos más caros se encuentran en:
+- Los apartamentos más baratos se encuentran en:
  
 ## Enlaces:
 
@@ -51,3 +51,4 @@ Los pasos a seguir;
 - [Airbnb de Madrid Dataset](https://www.kaggle.com/rusiano/madrid-airbnb-data)
 - [Airbnb](https://www.airbnb.es/madrid-spain/stays) 
 - [Sitios de interés en Madrid](https://www.tripadvisor.es/Attractions-g187514-Activities-c47-Madrid.html)
+- [Madrid Destino](https://www.madrid-destino.com/)
