@@ -31,17 +31,16 @@ He escogido una base de datos de [Airbnb de Madrid Dataset](https://www.kaggle.c
 
 Los pasos a seguir;
 
--   Analizar el dataset; ya está bastante limpio por lo que reviso las columnas, quito los valores nulos, duplicados y las columnas no necesarias para mi análisis. Además cambio los caracteres especiales, cómo los acentos.
--   Web scraping; una vez que tengo el dataset limpio decido enriquecerlo con información relacionada con los monumentos de interés cercanos a los apartamentos. Además, con Geocoder, consigo añadir la longitud y latitud y calcular la distancia al monumento más cercano.
--   Visualización: Observando los precios, distritos, barrios y monumentos, realizo diferentes gráficos.
+-   Analizar el dataset; ya está bastante limpio por lo que reviso las columnas, quito los valores nulos, duplicados y las columnas no necesarias para mi análisis. Además cambio los caracteres especiales, cómo los acentos. (cleaning.ipynb)
+-   Web scraping; una vez que tengo el dataset limpio decido enriquecerlo con información relacionada con los monumentos de interés cercanos a los apartamentos. Además, con Geocoder, consigo añadir la longitud y latitud y calcular la distancia al monumento más cercano. (Web scraping.ipynb)
+-   Visualización: Observando los precios, distritos, barrios y monumentos, realizo diferentes gráficos.(Visualización.ipynb)
+-   Resultados: Por último destaco las conclusiones;
 
-
-## Conclusiones:
-
-- Los barrios donde más apartamentos se ofrecen son: Centro, Salamanca y Chamberí.
-- La mayoría de ellos están cerca de los principales puntos de interés de Madrid: Malasaña, Barrio de las Letras y el Estadio Santiago Bernabeu.
-- ¿Quieres saber cuanto cuesta el apartamento más caro? y, ¿el más barato?
-Te invito a que lo descubras tu mismo.
+    - Los barrios donde más apartamentos se ofrecen son: Centro, Salamanca y Chamberí.
+    - La mayoría de ellos están cerca de los principales puntos de interés de Madrid: Malasaña, Barrio de las Letras y el Estadio Santiago Bernabeu.
+    
+    - ¿Quieres saber cuanto cuesta el apartamento más caro? y, ¿el más barato?
+    Te invito a que lo descubras tu mismo.
  
 ## Enlaces:
 
