@@ -27,7 +27,7 @@ Las libreias usadas en este proyecto: Pandas, Sys, Requests, BeautifulSoup, Geoc
 
 ## Proceso:
 
-He escogido una base de datos de [Airbnb de Madrid Dataset](https://www.kaggle.com/rusiano/madrid-airbnb-data) con una usabilidad de 9,4 compuesto de 20837 filas y 16 columnas. En esta base de datos se muestran datos de los apartamentos que Airbnb tiene en la ciudad de Madrid en base a su ubicación, precio, número de comentarios entre otros.
+He escogido una base de datos de [Airbnb de Madrid Dataset](https://www.kaggle.com/rusiano/madrid-airbnb-data) con una usabilidad de 9,4 compuesto de 20837 filas y 16 columnas. En esta base de datos se muestran datos de los apartamentos que Airbnb tiene en la ciudad de Madrid en el año 2019, en base a su ubicación, precio, número de comentarios entre otros.
 
 Los pasos a seguir;
 
