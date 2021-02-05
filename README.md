@@ -1,5 +1,7 @@
 # Project: Data Pipeline - Madrid Airbnb
 
+!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.genbeta.com%2Factualidad%2Fel-problema-de-airbnb-en-madrid-34-usuarios-son-duenos-de-1-027-ofertas&psig=AOvVaw0p35mHsIcIIV4sv_bFv-0F&ust=1612620031996000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjugfXz0u4CFQAAAAAdAAAAABAD)
+
 ## Introducción:
 
 Airbnb es una compañía creada en 2008 por Brian Chesky, que ofrece una plataforma digital dedicada a la oferta de alojamientos a particulares y turísticos (alquiler vacacional) mediante la cual los anfitriones pueden publicitar y contratar el arriendo de sus propiedades con sus huéspedes; anfitriones y huéspedes pueden valorarse mutuamente, como referencia para futuros usuarios. El nombre es un acrónimo de airbed and breakfast.
